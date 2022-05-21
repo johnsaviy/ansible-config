@@ -9,7 +9,7 @@
 - python3 -m pip install mysql-connector-python
 - python3 -m pip install psycopg2==2.7.5 --ignore-installed
 
-#### Installing  JAVA
+#### Installing  JAVA.
 ====================================
 - sudo yum install java-11-openjdk-devel -y
 
